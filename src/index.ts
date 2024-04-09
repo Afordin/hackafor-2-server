@@ -4,7 +4,6 @@ import { serve } from "@hono/node-server";
 import "dotenv/config";
 
 import {
-  CategoryChannel,
   Client,
   Events,
   GatewayIntentBits,
